@@ -1,4 +1,4 @@
-# BMI Calculator
+# TRIP FUEL CALCULATOR
 This project is a Native Android Application developed using the Kotlin programming language. The main functionality of the app is to estimate a fuel cost according to the distance, fuel efficiency and price of gas. The app takes the user's input to calculates the estimate final cost. 
 
 ## 📸 Scrennshots 📸
